@@ -34,11 +34,10 @@ function removeElement(&$nums, $val)
 			++$i;
 		}
 	}
-	
 	return $i;
 }
 
 // 测试
 $nums = [1,2,3,4,2];
 $val = 2;
-var_dump(removeElement($nums, $val));
+var_dump(removeElement($nums, $val), $nums);

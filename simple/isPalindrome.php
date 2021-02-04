@@ -35,5 +35,28 @@ function isPalindrome(string $x)
     }
     return true;
 }
-$x = '121';
-var_dump(isPalindrome($x));
+
+// 将原字符串反转后与自身比较
+// function isPalindrome(string $x)
+// {
+
+//     $int = intval($x);
+//     if ($int < 0) {
+//         return false;
+//     }
+
+//     if ($int === 0 || $int < 10) {
+//         return true;
+//     }
+
+//     $tmp = '';
+//     $len = strlen($x) - 1;
+//     for ($i = $len; $i >= 0; $i--) {
+//         $tmp .= $x{$i};
+//     }
+    
+//    return $x == $tmp ? true : false;
+// }
+
+$x = '1210';
+var_dump(demo($x));

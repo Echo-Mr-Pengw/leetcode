@@ -8,8 +8,6 @@
  */
 function removeDuplicates(&$nums) {
 	
-	sort($nums);
-
 	$l = count($nums);
 	$k = $l;
 	for ($i = 0; $i < $l; $i++) {

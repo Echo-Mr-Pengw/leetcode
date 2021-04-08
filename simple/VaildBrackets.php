@@ -24,9 +24,10 @@ class VaildBrackets
 		$str_len = strlen($str);
 		
 		// 如果括号字符串为基数，则不合法
-		if ($str_len % 2 !== 0) {
-			return false;
-		}
+		// if ($str_len % 2 !== 0) {
+		// 	return false;
+		// }
+		if ($str_len & 1) return false;
 
 		// 定义一个栈
 		$stack = [];

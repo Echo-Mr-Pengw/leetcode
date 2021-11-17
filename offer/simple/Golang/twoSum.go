@@ -16,6 +16,22 @@ func main() {
 
 func towSum(nums []int, target int) []int {
 
+	// 方法1
+	//l := len(nums)
+	//tmp := 0
+	//m := make(map[int]int, l)
+	//s := make([]int, 0)
+	//for _, v := range nums {
+	//	tmp = target - v
+	//	if val, ok := m[tmp]; ok {
+	//		s = append(s, val, v)
+	//		break
+	//	}
+	//	m[v] = v
+	//}
+	//return s
+
+	// 方法2
 	numsLen := len(nums)
 	if numsLen < 1 {
 		return nums

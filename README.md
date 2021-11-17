@@ -31,7 +31,7 @@
 > | 23   | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | PHP、Golang                                                  |
 > | 24   | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | PHP、Golang                                                  |
 > | 25   | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | PHP、Golang                                                  |
-> | 26   | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | PHP、Golang                                                  |
+> | 26   | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/PHP/twoSum.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/Golang/twoSum.php) |
 > | 27   | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | PHP、Golang                                                  |
 > | 28   | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | PHP、Golang                                                  |
 > | 29   | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | PHP、Golang                                                  |

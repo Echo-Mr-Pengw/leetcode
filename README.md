@@ -32,18 +32,18 @@
 > | 24   | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | PHP、Golang                                                  |
 > | 25   | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | PHP、Golang                                                  |
 > | 26   | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/PHP/twoSum.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/Golang/twoSum.php) |
-> | 27   | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | PHP、Golang                                                  |
+> | 27   | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/PHP/reverseWords.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/simple/Golang/reverseWords.php)                                                  |
 > | 28   | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | PHP、Golang                                                  |
 > | 29   | [剑指 Offer 61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | PHP、Golang                                                  |
 > | 30   | [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | PHP、Golang                                                  |
 
-
-
-
-
-
-
 二、中等题目   
+
+| 序号 | 题目                                                         | 实现语言                                                     |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/findNumberIn2DArray.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/findNumberIn2DArray.go) |
+| 2    | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/buildTree.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/buildTree.go) |
+|      |                                                              |                                                              |
 
 三、困难题目   
 

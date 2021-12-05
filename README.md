@@ -43,7 +43,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/findNumberIn2DArray.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/findNumberIn2DArray.go) |
 | 2    | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/buildTree.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/buildTree.go) |
-|      |                                                              |                                                              |
+| 3    | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/exist.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/exist.go) |
 
 三、困难题目   
 

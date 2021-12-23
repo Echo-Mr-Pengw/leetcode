@@ -48,6 +48,7 @@
 | 5    | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/levelOrder.php)、Golang |
 | 6    | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/levelOrder2.php)、Golang |
 | 7    | [剑指 Offer 64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/sumNums.php)、Golang |
+| 8    | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/verifyPostorder.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/verifyPostorder.go) |
 
 三、困难题目   
 

@@ -16,7 +16,13 @@ function reverseWords($s) {
         if (empty($arr[$i])) {
             continue;
         }
-        $str .= $arr[$i] . ' ';
+
+        $str .= $arr[$i];
+        if (!empty($i)) {
+            $str .= ' ';
+        }
+
     }
-    return trim($str);
+    //return trim($str);
+    return $str;
 }

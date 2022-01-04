@@ -34,10 +34,15 @@ func replaceSpace(s string ) string {
 	// 方法3
 	oldLen := len(s) - 1
 	for _, v := range s {
+		//if v == ' ' {
+		//	for i := 0; i < 2 ; i++ {
+		//		s += " "
+		//	}
+		//}
+
+		// 优化，或者计算出空格数，一起完成拼接
 		if v == ' ' {
-			for i := 0; i < 2 ; i++ {
-				s += " "
-			}
+			s += "  "
 		}
 	}
 

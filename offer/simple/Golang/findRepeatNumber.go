@@ -20,25 +20,25 @@ func main() {
 
 func findRepeatNumber(nums []int) int {
 
-	result := 0
-	numsLen := len(nums)
-	if numsLen < 2 {
-		return result
-	}
-
-	i := 0
-	for i < numsLen {
-		for i != nums[i] {
-			if nums[i] == nums[nums[i]] {
-				result = nums[i]
-				break
-			}
-
-			tmp := nums[i]
-			nums[i] = nums[tmp]
-			nums[tmp] = tmp
-		}
-		i++
-	}
-	return result
+	//result := 0
+	//numsLen := len(nums)
+	//if numsLen < 2 {
+	//	return result
+	//}
+	//
+	//i := 0
+	//for i < numsLen {
+	//	for i != nums[i] {
+	//		if nums[i] == nums[nums[i]] {
+	//			result = nums[i]
+	//			break
+	//		}
+	//
+	//		tmp := nums[i]
+	//		nums[i] = nums[tmp]
+	//		nums[tmp] = tmp
+	//	}
+	//	i++
+	//}
+	//return result
 }

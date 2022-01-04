@@ -11,16 +11,16 @@
 function findRepeatNumber($nums)
 {
   	// 方法一：hash
-    $tmp = [];
-    $len = count($nums);
-    for ($i = 0; $i < $len; $i++) {
-       if (!isset($tmp[$nums[$i]])) {
-           $tmp[$nums[$i]] = true;
-       } else {
-           return $nums[$i];
-       }
-    }
-    return -1;
+    // $tmp = [];
+    // $len = count($nums);
+    // for ($i = 0; $i < $len; $i++) {
+    //    if (!isset($tmp[$nums[$i]])) {
+    //        $tmp[$nums[$i]] = true;
+    //    } else {
+    //        return $nums[$i];
+    //    }
+    // }
+    // return -1;
 
     // 方法2
     // sort($nums);
@@ -32,4 +32,20 @@ function findRepeatNumber($nums)
     //     }
     // }
     // return -1;
+    
+    // 方法3
+    $len = count($nums);
+    for ($i = 0; $i < $len; $i++) {
+        while ($i != $nums[$i]) {
+            if ($nums[$i] == $nums[$nums[$i]]) {
+                return $nums[$i];
+            }
+
+            $tmp = $nums[$i];
+            $nums[$i] = $nums[$tmp];
+            $nums[$tmp] = $tmp;
+        }
+    }
+    return -1;
 }
+var_dump(findRepeatNumber([0, 1,2,2,1]));

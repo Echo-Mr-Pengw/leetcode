@@ -49,6 +49,9 @@
 | 6    | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/levelOrder2.php)、Golang |
 | 7    | [剑指 Offer 64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/sumNums.php)、Golang |
 | 8    | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/verifyPostorder.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/verifyPostorder.go) |
+| 9    | [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/movingCount.php)、Golang |
+| 10   | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/cuttingRope.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/cuttingRope.go) |
+| 11   | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/cuttingRope2.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/cuttingRope2.go) |
 
 三、困难题目   
 

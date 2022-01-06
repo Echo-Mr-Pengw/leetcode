@@ -52,6 +52,9 @@
 | 9    | [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/movingCount.php)、Golang |
 | 10   | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/cuttingRope.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/cuttingRope.go) |
 | 11   | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/cuttingRope2.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/cuttingRope2.go) |
+| 12   | [剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [PHP](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/PHP/myPow.php)、[Golang](https://github.com/Echo-Mr-Pengw/leetcode/blob/master/offer/medium/Golang/myPow.go) |
+
+
 
 三、困难题目   
 
